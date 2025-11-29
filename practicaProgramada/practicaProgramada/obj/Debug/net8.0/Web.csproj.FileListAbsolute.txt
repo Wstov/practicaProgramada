@@ -1,0 +1,9 @@
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada\obj\Debug\net8.0\Web.RazorAssemblyInfo.cache
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada\obj\Debug\net8.0\Web.RazorAssemblyInfo.cs
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada\obj\Debug\net8.0\Web.sourcelink.json
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache

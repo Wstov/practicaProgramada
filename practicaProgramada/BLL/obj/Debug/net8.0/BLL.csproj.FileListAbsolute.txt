@@ -1,0 +1,6 @@
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache

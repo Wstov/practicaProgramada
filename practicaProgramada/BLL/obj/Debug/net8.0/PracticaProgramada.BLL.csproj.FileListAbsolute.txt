@@ -1,0 +1,16 @@
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\bin\Debug\net8.0\PracticaProgramada.BLL.deps.json
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\bin\Debug\net8.0\PracticaProgramada.BLL.dll
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\bin\Debug\net8.0\PracticaProgramada.BLL.pdb
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\bin\Debug\net8.0\PracticaProgramada.DAL.dll
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\bin\Debug\net8.0\PracticaProgramada.DAL.pdb
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\PracticaProgramada.BLL.csproj.AssemblyReference.cache
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\PracticaProgramada.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\PracticaProgramada.BLL.AssemblyInfoInputs.cache
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\PracticaProgramada.BLL.AssemblyInfo.cs
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\PracticaProgramada.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\PracticaProgramada.BLL.sourcelink.json
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\Practica.39569FD3.Up2Date
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\PracticaProgramada.BLL.dll
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\refint\PracticaProgramada.BLL.dll
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\PracticaProgramada.BLL.pdb
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\BLL\obj\Debug\net8.0\ref\PracticaProgramada.BLL.dll

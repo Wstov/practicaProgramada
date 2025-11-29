@@ -1,0 +1,39 @@
+﻿@model List<PracticaProgramada.BLL.Dtos.EstudianteDto>
+
+<h2>Estudiantes</h2>
+
+<p>
+    <a class="btn btn-primary" href="/Estudiantes/Create">Nuevo Estudiante</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Carné</th>
+            <th>Email</th>
+            <th>Teléfono</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var e in Model)
+        {
+            <tr>
+                <td>@e.Id</td>
+                <td>@e.Nombre</td>
+                <td>@e.Apellido</td>
+                <td>@e.Carne</td>
+                <td>@e.Email</td>
+                <td>@e.Telefono</td>
+                <td>
+                    <a class="btn btn-info btn-sm" href="/Estudiantes/Details/@e.Id">Detalle</a>
+                    <a class="btn btn-warning btn-sm" href="/Estudiantes/Edit/@e.Id">Editar</a>
+                    <a class="btn btn-danger btn-sm" href="/Estudiantes/Delete/@e.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

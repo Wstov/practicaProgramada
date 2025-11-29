@@ -1,0 +1,5 @@
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\DAL\obj\Debug\net8.0\DAL.sourcelink.json

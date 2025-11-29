@@ -1,7 +1,92 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\PracticaProgramada.Web.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\practicaprogramada\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\PracticaProgramada.Web.csproj|solutionrelative:practicaprogramada\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\practicaprogramada\\views\\estudiantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|solutionrelative:practicaprogramada\\views\\estudiantes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\practicaprogramada\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|solutionrelative:practicaprogramada\\views\\estudiantes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\practicaprogramada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|solutionrelative:practicaprogramada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04D30C-BF01-431E-A042-79688D9FB72B}|BLL\\PracticaProgramada.BLL.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\bll\\practicaprogramada.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A04D30C-BF01-431E-A042-79688D9FB72B}|BLL\\PracticaProgramada.BLL.csproj|solutionrelative:bll\\practicaprogramada.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D88FC0-3E2B-4B50-B846-4684E3ACCB71}|DAL\\PracticaProgramada.DAL.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\dal\\practicaprogramada.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32D88FC0-3E2B-4B50-B846-4684E3ACCB71}|DAL\\PracticaProgramada.DAL.csproj|solutionrelative:dal\\practicaprogramada.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D88FC0-3E2B-4B50-B846-4684E3ACCB71}|DAL\\DAL.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\dal\\repositorios\\estudiantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D88FC0-3E2B-4B50-B846-4684E3ACCB71}|DAL\\DAL.csproj|solutionrelative:dal\\repositorios\\estudiantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D88FC0-3E2B-4B50-B846-4684E3ACCB71}|DAL\\PracticaProgramada.DAL.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\dal\\repositorios\\iestudiantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D88FC0-3E2B-4B50-B846-4684E3ACCB71}|DAL\\PracticaProgramada.DAL.csproj|solutionrelative:dal\\repositorios\\iestudiantesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04D30C-BF01-431E-A042-79688D9FB72B}|BLL\\BLL.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\bll\\servicios\\iestudiantesservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04D30C-BF01-431E-A042-79688D9FB72B}|BLL\\BLL.csproj|solutionrelative:bll\\servicios\\iestudiantesservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\practicaprogramada\\views\\estudiantes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|solutionrelative:practicaprogramada\\views\\estudiantes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\practicaprogramada\\views\\estudiantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|solutionrelative:practicaprogramada\\views\\estudiantes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\practicaprogramada\\views\\estudiantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|solutionrelative:practicaprogramada\\views\\estudiantes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\practicaprogramada\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|solutionrelative:practicaprogramada\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\practicaprogramada\\services\\iapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|solutionrelative:practicaprogramada\\services\\iapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\practicaprogramada\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\Web.csproj|solutionrelative:practicaprogramada\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04D30C-BF01-431E-A042-79688D9FB72B}|BLL\\BLL.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\bll\\servicios\\estudiantesservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04D30C-BF01-431E-A042-79688D9FB72B}|BLL\\BLL.csproj|solutionrelative:bll\\servicios\\estudiantesservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04D30C-BF01-431E-A042-79688D9FB72B}|BLL\\BLL.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\bll\\mapeos\\mapeoclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04D30C-BF01-431E-A042-79688D9FB72B}|BLL\\BLL.csproj|solutionrelative:bll\\mapeos\\mapeoclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04D30C-BF01-431E-A042-79688D9FB72B}|BLL\\BLL.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\bll\\practicaprogramada.dtos\\customresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04D30C-BF01-431E-A042-79688D9FB72B}|BLL\\BLL.csproj|solutionrelative:bll\\practicaprogramada.dtos\\customresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A04D30C-BF01-431E-A042-79688D9FB72B}|BLL\\BLL.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\bll\\practicaprogramada.dtos\\estudiantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A04D30C-BF01-431E-A042-79688D9FB72B}|BLL\\BLL.csproj|solutionrelative:bll\\practicaprogramada.dtos\\estudiantedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\PracticaProgramada.Web.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\practicaprogramada\\practicaprogramada.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29E2F3D3-64F5-472F-874E-1D7D56D5D705}|practicaProgramada\\PracticaProgramada.Web.csproj|solutionrelative:practicaprogramada\\practicaprogramada.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32D88FC0-3E2B-4B50-B846-4684E3ACCB71}|DAL\\DAL.csproj|c:\\users\\wstov\\desktop\\practica programada\\practicaprogramada\\practicaprogramada\\dal\\entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32D88FC0-3E2B-4B50-B846-4684E3ACCB71}|DAL\\DAL.csproj|solutionrelative:dal\\entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +123,279 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "practicaProgramada\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "practicaProgramada\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T18:26:27.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEstudiantesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\DAL\\Repositorios\\IEstudiantesRepositorio.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositorios\\IEstudiantesRepositorio.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\DAL\\Repositorios\\IEstudiantesRepositorio.cs",
+              "RelativeToolTip": "DAL\\Repositorios\\IEstudiantesRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:23:28.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Program.cs",
+              "RelativeDocumentMoniker": "practicaProgramada\\Program.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Program.cs",
+              "RelativeToolTip": "practicaProgramada\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:02:06.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PracticaProgramada.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\BLL\\PracticaProgramada.BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\PracticaProgramada.BLL.csproj",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\BLL\\PracticaProgramada.BLL.csproj",
+              "RelativeToolTip": "BLL\\PracticaProgramada.BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T17:39:17.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeDocumentMoniker": "practicaProgramada\\Views\\Estudiantes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Views\\Estudiantes\\Index.cshtml",
+              "RelativeToolTip": "practicaProgramada\\Views\\Estudiantes\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T17:59:18.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Views\\Estudiantes\\Details.cshtml",
+              "RelativeDocumentMoniker": "practicaProgramada\\Views\\Estudiantes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Views\\Estudiantes\\Details.cshtml",
+              "RelativeToolTip": "practicaProgramada\\Views\\Estudiantes\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T18:00:08.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PracticaProgramada.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\PracticaProgramada.Web.csproj",
+              "RelativeDocumentMoniker": "practicaProgramada\\PracticaProgramada.Web.csproj",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\PracticaProgramada.Web.csproj",
+              "RelativeToolTip": "practicaProgramada\\PracticaProgramada.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T18:17:33.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstudiantesRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\DAL\\Repositorios\\EstudiantesRepositorio.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositorios\\EstudiantesRepositorio.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\DAL\\Repositorios\\EstudiantesRepositorio.cs",
+              "RelativeToolTip": "DAL\\Repositorios\\EstudiantesRepositorio.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA4wDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:38:46.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PracticaProgramada.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\DAL\\PracticaProgramada.DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\PracticaProgramada.DAL.csproj",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\DAL\\PracticaProgramada.DAL.csproj",
+              "RelativeToolTip": "DAL\\PracticaProgramada.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T17:32:30.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEstudiantesServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\BLL\\Servicios\\IEstudiantesServicio.cs",
+              "RelativeDocumentMoniker": "BLL\\Servicios\\IEstudiantesServicio.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\BLL\\Servicios\\IEstudiantesServicio.cs",
+              "RelativeToolTip": "BLL\\Servicios\\IEstudiantesServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:49:33.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Views\\Estudiantes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "practicaProgramada\\Views\\Estudiantes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Views\\Estudiantes\\Delete.cshtml",
+              "RelativeToolTip": "practicaProgramada\\Views\\Estudiantes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T18:01:13.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Views\\Estudiantes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "practicaProgramada\\Views\\Estudiantes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Views\\Estudiantes\\Edit.cshtml",
+              "RelativeToolTip": "practicaProgramada\\Views\\Estudiantes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T18:00:52.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Views\\Estudiantes\\Create.cshtml",
+              "RelativeDocumentMoniker": "practicaProgramada\\Views\\Estudiantes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Views\\Estudiantes\\Create.cshtml",
+              "RelativeToolTip": "practicaProgramada\\Views\\Estudiantes\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T18:00:27.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "practicaProgramada\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "practicaProgramada\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAA0wGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:58:39.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Services\\IApiClient.cs",
+              "RelativeDocumentMoniker": "practicaProgramada\\Services\\IApiClient.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Services\\IApiClient.cs",
+              "RelativeToolTip": "practicaProgramada\\Services\\IApiClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:56:46.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Services\\ApiClient.cs",
+              "RelativeDocumentMoniker": "practicaProgramada\\Services\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\practicaProgramada\\Services\\ApiClient.cs",
+              "RelativeToolTip": "practicaProgramada\\Services\\ApiClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:57:05.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EstudiantesServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\BLL\\Servicios\\EstudiantesServicio.cs",
+              "RelativeDocumentMoniker": "BLL\\Servicios\\EstudiantesServicio.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\BLL\\Servicios\\EstudiantesServicio.cs",
+              "RelativeToolTip": "BLL\\Servicios\\EstudiantesServicio.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAcwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:50:29.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MapeoClases.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\BLL\\Mapeos\\MapeoClases.cs",
+              "RelativeDocumentMoniker": "BLL\\Mapeos\\MapeoClases.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\BLL\\Mapeos\\MapeoClases.cs",
+              "RelativeToolTip": "BLL\\Mapeos\\MapeoClases.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:41:05.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\BLL\\PracticaProgramada.Dtos\\CustomResponse.cs",
+              "RelativeDocumentMoniker": "BLL\\PracticaProgramada.Dtos\\CustomResponse.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\BLL\\PracticaProgramada.Dtos\\CustomResponse.cs",
+              "RelativeToolTip": "BLL\\PracticaProgramada.Dtos\\CustomResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:48:51.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EstudianteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\BLL\\PracticaProgramada.Dtos\\EstudianteDto.cs",
+              "RelativeDocumentMoniker": "BLL\\PracticaProgramada.Dtos\\EstudianteDto.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\BLL\\PracticaProgramada.Dtos\\EstudianteDto.cs",
+              "RelativeToolTip": "BLL\\PracticaProgramada.Dtos\\EstudianteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:39:38.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\DAL\\Entidades\\Estudiante.cs",
+              "RelativeDocumentMoniker": "DAL\\Entidades\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Wstov\\Desktop\\Practica Programada\\practicaProgramada\\practicaProgramada\\DAL\\Entidades\\Estudiante.cs",
+              "RelativeToolTip": "DAL\\Entidades\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T17:32:46.595Z",
+              "EditorCaption": ""
             }
           ]
         }

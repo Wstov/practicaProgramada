@@ -1,0 +1,19 @@
+﻿@model PracticaProgramada.BLL.Dtos.EstudianteDto
+
+<h2>Eliminar Estudiante</h2>
+
+<p>¿Seguro que desea eliminar este estudiante?</p>
+
+<table class="table">
+    <tr><th>ID:</th><td>@Model.Id</td></tr>
+    <tr><th>Nombre:</th><td>@Model.Nombre</td></tr>
+    <tr><th>Apellido:</th><td>@Model.Apellido</td></tr>
+    <tr><th>Carné:</th><td>@Model.Carne</td></tr>
+    <tr><th>Email:</th><td>@Model.Email</td></tr>
+    <tr><th>Teléfono:</th><td>@Model.Telefono</td></tr>
+</table>
+
+<form method="post" action="/Estudiantes/DeleteConfirmed/@Model.Id">
+    <button class="btn btn-danger" type="submit">Eliminar</button>
+    <a class="btn btn-secondary" href="/Estudiantes">Cancelar</a>
+</form>
