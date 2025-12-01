@@ -40,3 +40,13 @@ C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada
 C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada\obj\Debug\net8.0\PracticaProgramada.Web.pdb
 C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada\obj\Debug\net8.0\PracticaProgramada.Web.genruntimeconfig.cache
 C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada\obj\Debug\net8.0\ref\PracticaProgramada.Web.dll
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\practicaProgramada\obj\Debug\net8.0\PracticaProgramada.Web.csproj.AssemblyReference.cache
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\practicaProgramada\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\practicaProgramada\obj\Debug\net8.0\PracticaProgramada.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\practicaProgramada\obj\Debug\net8.0\PracticaProgramada.Web.AssemblyInfoInputs.cache
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\practicaProgramada\obj\Debug\net8.0\PracticaProgramada.Web.AssemblyInfo.cs
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\practicaProgramada\obj\Debug\net8.0\PracticaProgramada.Web.csproj.CoreCompileInputs.cache
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\practicaProgramada\obj\Debug\net8.0\PracticaProgramada.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\practicaProgramada\obj\Debug\net8.0\PracticaProgramada.Web.RazorAssemblyInfo.cache
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\practicaProgramada\obj\Debug\net8.0\PracticaProgramada.Web.RazorAssemblyInfo.cs
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\practicaProgramada\obj\Debug\net8.0\PracticaProgramada.Web.sourcelink.json

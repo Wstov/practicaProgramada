@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaProgramada.DAL", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaProgramada.BLL", "BLL\PracticaProgramada.BLL.csproj", "{3A04D30C-BF01-431E-A042-79688D9FB72B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaProgramada.API", "PracticaProgramada.API\PracticaProgramada.API.csproj", "{2920FB9B-62AE-42E8-9A46-0B6D9EDEA851}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3A04D30C-BF01-431E-A042-79688D9FB72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A04D30C-BF01-431E-A042-79688D9FB72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A04D30C-BF01-431E-A042-79688D9FB72B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2920FB9B-62AE-42E8-9A46-0B6D9EDEA851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2920FB9B-62AE-42E8-9A46-0B6D9EDEA851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2920FB9B-62AE-42E8-9A46-0B6D9EDEA851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2920FB9B-62AE-42E8-9A46-0B6D9EDEA851}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

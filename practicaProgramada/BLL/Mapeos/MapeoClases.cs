@@ -8,7 +8,7 @@ namespace PracticaProgramada.BLL.Mapeos
     {
         public MapeoClases()
         {
-            CreateMap<Estudiante, EstudianteDto>().ReverseMap();
+            CreateMap<Estudiante, EstudianteDto>();
         }
     }
 }

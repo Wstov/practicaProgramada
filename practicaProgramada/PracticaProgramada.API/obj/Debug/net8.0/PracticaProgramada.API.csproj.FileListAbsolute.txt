@@ -1,0 +1,8 @@
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\PracticaProgramada.API\obj\Debug\net8.0\PracticaProgramada.API.csproj.AssemblyReference.cache
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\PracticaProgramada.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\PracticaProgramada.API\obj\Debug\net8.0\PracticaProgramada.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\PracticaProgramada.API\obj\Debug\net8.0\PracticaProgramada.API.AssemblyInfoInputs.cache
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\PracticaProgramada.API\obj\Debug\net8.0\PracticaProgramada.API.AssemblyInfo.cs
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\PracticaProgramada.API\obj\Debug\net8.0\PracticaProgramada.API.csproj.CoreCompileInputs.cache
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\PracticaProgramada.API\obj\Debug\net8.0\PracticaProgramada.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\PracticaProgramada.API\obj\Debug\net8.0\PracticaProgramada.API.sourcelink.json

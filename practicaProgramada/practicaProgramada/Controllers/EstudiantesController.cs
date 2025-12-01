@@ -6,27 +6,28 @@ namespace PracticaProgramada.Web.Controllers
 {
     public class EstudiantesController : Controller
     {
-        private readonly IEstudiantesServicio _servicio;
+        private readonly HttpClient http;
 
-        public EstudiantesController(IEstudiantesServicio servicio)
+        public EstudiantesController(IHttpClientFactory factory)
         {
-            _servicio = servicio;
+            _http = factory.CreateClient("api");
         }
 
         // GET: /Estudiantes
         public async Task<IActionResult> Index()
         {
-            var lista = await _servicio.ListarAsync();
+            var respuesta = await _http.GetFromJsonAsync<ApiRespuesta<List<EstudianteDto>>>("Usuarios");
+            var lista = respuesta?.Resultado ?? new List<EstudianteDto>();
             return View(lista);
         }
 
         // GET: /Estudiantes/Details/5
         public async Task<IActionResult> Details(int id)
         {
-            var result = await _servicio.ObtenerPorIdAsync(id);
-            if (!result.Ok) return NotFound();
-
-            return View(result.Datos);
+            var resp = await _http.GetFromJsonAsync<ApiRespuesta<EstudianteDto>>($"Estudiantes/{id}");
+            var usuario = resp?.Resultado;
+            if (usuario == null) return NotFound();
+            return View(usuario);
         }
 
         // GET: /Estudiantes/Create
@@ -39,59 +40,40 @@ namespace PracticaProgramada.Web.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(EstudianteDto dto)
         {
-            if (!ModelState.IsValid)
-                return View(dto);
-
-            var result = await _servicio.CrearAsync(dto);
-            if (!result.Ok)
-            {
-                ModelState.AddModelError("", result.Mensaje);
-                return View(dto);
-            }
-
+            var resp = await _http.PostAsJson("Estudiante", dto);
+            if (!resp.IsSuccesStatusCode) return View(dto);
             return RedirectToAction(nameof(Index));
         }
 
         // GET: /Estudiantes/Edit/5
         public async Task<IActionResult> Edit(int id)
         {
-            var result = await _servicio.ObtenerPorIdAsync(id);
-            if (!result.Ok) return NotFound();
-
-            return View(result.Datos);
+            var estudiante = await _http.GetFromJsonAsync<EstudianteDto>($"Estudiantes/{id}");
+            if (estudiante == null) return NotFound();
+            return View(estudiante);
         }
 
         // POST: /Estudiantes/Edit
         [HttpPost]
         public async Task<IActionResult> Edit(EstudianteDto dto)
         {
-            if (!ModelState.IsValid)
-                return View(dto);
-
-            var result = await _servicio.ActualizarAsync(dto);
-            if (!result.Ok)
-            {
-                ModelState.AddModelError("", result.Mensaje);
-                return View(dto);
-            }
-
+            var estudiante = await _http.PutJsonAsync("Estudiante", dto);
+            if (!Response.IsSuccessStatusCode) return View(dto);
             return RedirectToAction(nameof(Index));
         }
 
         // GET: /Estudiantes/Delete/5
         public async Task<IActionResult> Delete(int id)
         {
-            var result = await _servicio.ObtenerPorIdAsync(id);
-            if (!result.Ok) return NotFound();
-
-            return View(result.Datos);
+            var estudiante = await _http.DeleteAsync("Estudiante/{id}");
+            return RedirectToAction(nameof(Index));
         }
 
         // POST: /Estudiantes/DeleteConfirmed
         [HttpPost]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var result = await _servicio.EliminarAsync(id);
+            var result = await _http.DeleteAsync(id);
             if (!result.Ok)
                 return BadRequest(result.Mensaje);
 

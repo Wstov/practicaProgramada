@@ -10,3 +10,18 @@ C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada
 C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\DAL\obj\Debug\net8.0\refint\PracticaProgramada.DAL.dll
 C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\DAL\obj\Debug\net8.0\PracticaProgramada.DAL.pdb
 C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\DAL\obj\Debug\net8.0\ref\PracticaProgramada.DAL.dll
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\bin\Debug\net8.0\PracticaProgramada.DAL.deps.json
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\bin\Debug\net8.0\PracticaProgramada.DAL.runtimeconfig.json
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\bin\Debug\net8.0\PracticaProgramada.DAL.dll
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\bin\Debug\net8.0\PracticaProgramada.DAL.pdb
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\obj\Debug\net8.0\PracticaProgramada.DAL.csproj.AssemblyReference.cache
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\obj\Debug\net8.0\PracticaProgramada.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\obj\Debug\net8.0\PracticaProgramada.DAL.AssemblyInfoInputs.cache
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\obj\Debug\net8.0\PracticaProgramada.DAL.AssemblyInfo.cs
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\obj\Debug\net8.0\PracticaProgramada.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\obj\Debug\net8.0\PracticaProgramada.DAL.sourcelink.json
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\obj\Debug\net8.0\PracticaProgramada.DAL.dll
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\obj\Debug\net8.0\refint\PracticaProgramada.DAL.dll
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\obj\Debug\net8.0\PracticaProgramada.DAL.pdb
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\obj\Debug\net8.0\PracticaProgramada.DAL.genruntimeconfig.cache
+C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\DAL\obj\Debug\net8.0\ref\PracticaProgramada.DAL.dll

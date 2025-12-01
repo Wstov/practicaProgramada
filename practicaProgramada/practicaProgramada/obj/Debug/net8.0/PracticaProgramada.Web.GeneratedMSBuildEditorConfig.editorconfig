@@ -9,59 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PracticaProgramada.Web
 build_property.RootNamespace = PracticaProgramada.Web
-build_property.ProjectDir = C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada\
+build_property.ProjectDir = C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\practicaProgramada\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Wstov\Desktop\Practica Programada\practicaProgramada\practicaProgramada\practicaProgramada
+build_property.MSBuildProjectDirectory = C:\Users\Sofup\OneDrive\Documentos 1\SONIA VIIII CUATRIMESTRE\Programacion avanzada web\PP\practicaProgramada\practicaProgramada
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Wstov/Desktop/Practica Programada/practicaProgramada/practicaProgramada/practicaProgramada/Views/Estudiantes/Create.cshtml]
+[C:/Users/Sofup/AppData/Roaming/SonarLint for Visual Studio/.global/csharp/SonarLint.xml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sofup/OneDrive/Documentos 1/SONIA VIIII CUATRIMESTRE/Programacion avanzada web/PP/practicaProgramada/practicaProgramada/Views/Estudiantes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wstov/Desktop/Practica Programada/practicaProgramada/practicaProgramada/practicaProgramada/Views/Estudiantes/Delete.cshtml]
+[C:/Users/Sofup/OneDrive/Documentos 1/SONIA VIIII CUATRIMESTRE/Programacion avanzada web/PP/practicaProgramada/practicaProgramada/Views/Estudiantes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wstov/Desktop/Practica Programada/practicaProgramada/practicaProgramada/practicaProgramada/Views/Estudiantes/Details.cshtml]
+[C:/Users/Sofup/OneDrive/Documentos 1/SONIA VIIII CUATRIMESTRE/Programacion avanzada web/PP/practicaProgramada/practicaProgramada/Views/Estudiantes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wstov/Desktop/Practica Programada/practicaProgramada/practicaProgramada/practicaProgramada/Views/Estudiantes/Edit.cshtml]
+[C:/Users/Sofup/OneDrive/Documentos 1/SONIA VIIII CUATRIMESTRE/Programacion avanzada web/PP/practicaProgramada/practicaProgramada/Views/Estudiantes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wstov/Desktop/Practica Programada/practicaProgramada/practicaProgramada/practicaProgramada/Views/Estudiantes/Index.cshtml]
+[C:/Users/Sofup/OneDrive/Documentos 1/SONIA VIIII CUATRIMESTRE/Programacion avanzada web/PP/practicaProgramada/practicaProgramada/Views/Estudiantes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0dWRpYW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wstov/Desktop/Practica Programada/practicaProgramada/practicaProgramada/practicaProgramada/Views/Home/Index.cshtml]
+[C:/Users/Sofup/OneDrive/Documentos 1/SONIA VIIII CUATRIMESTRE/Programacion avanzada web/PP/practicaProgramada/practicaProgramada/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wstov/Desktop/Practica Programada/practicaProgramada/practicaProgramada/practicaProgramada/Views/Home/Privacy.cshtml]
+[C:/Users/Sofup/OneDrive/Documentos 1/SONIA VIIII CUATRIMESTRE/Programacion avanzada web/PP/practicaProgramada/practicaProgramada/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wstov/Desktop/Practica Programada/practicaProgramada/practicaProgramada/practicaProgramada/Views/Shared/Error.cshtml]
+[C:/Users/Sofup/OneDrive/Documentos 1/SONIA VIIII CUATRIMESTRE/Programacion avanzada web/PP/practicaProgramada/practicaProgramada/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wstov/Desktop/Practica Programada/practicaProgramada/practicaProgramada/practicaProgramada/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Sofup/OneDrive/Documentos 1/SONIA VIIII CUATRIMESTRE/Programacion avanzada web/PP/practicaProgramada/practicaProgramada/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wstov/Desktop/Practica Programada/practicaProgramada/practicaProgramada/practicaProgramada/Views/_ViewImports.cshtml]
+[C:/Users/Sofup/OneDrive/Documentos 1/SONIA VIIII CUATRIMESTRE/Programacion avanzada web/PP/practicaProgramada/practicaProgramada/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wstov/Desktop/Practica Programada/practicaProgramada/practicaProgramada/practicaProgramada/Views/_ViewStart.cshtml]
+[C:/Users/Sofup/OneDrive/Documentos 1/SONIA VIIII CUATRIMESTRE/Programacion avanzada web/PP/practicaProgramada/practicaProgramada/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Wstov/Desktop/Practica Programada/practicaProgramada/practicaProgramada/practicaProgramada/Views/Shared/_Layout.cshtml]
+[C:/Users/Sofup/OneDrive/Documentos 1/SONIA VIIII CUATRIMESTRE/Programacion avanzada web/PP/practicaProgramada/practicaProgramada/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fqt7pl22zz

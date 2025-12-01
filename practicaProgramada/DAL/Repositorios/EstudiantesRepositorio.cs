@@ -1,42 +1,46 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using PracticaProgramada.DAL.Entidades;
 
 namespace PracticaProgramada.DAL.Repositorios
 {
     public class EstudiantesRepositorio : IEstudiantesRepositorio
     {
-        private readonly List<Estudiante> _tabla = new List<Estudiante>();
-
-        public Task<List<Estudiante>> ListarAsync()
+        private readonly ApiContext _context;
+        public EstudiantesRepositorio(ApiContext context)
         {
-            return Task.FromResult(_tabla);
+            _context = context;
         }
 
-        public Task<Estudiante> ObtenerPorIdAsync(int id)
+        public async Task<List<Estudiante>> ListarAsync()
         {
-            var encontrado = _tabla.FirstOrDefault(x => x.Id == id);
-            return Task.FromResult(encontrado);
+            return await _context.Estudiantes.ToListAsync();
         }
 
-        public Task<Estudiante> ObtenerPorCarneAsync(string carne)
+        public async Task<Estudiante> ObtenerPorIdAsync(int id)
         {
-            var encontrado = _tabla.FirstOrDefault(x => x.Carne == carne);
-            return Task.FromResult(encontrado);
+            var encontrado = _context.Estudiantes.FirstOrDefault(x => x.Id == id);
+            return encontrado;
         }
 
-        public Task<bool> AgregarAsync(Estudiante estudiante)
+        public async Task<Estudiante> ObtenerPorCarneAsync(string carne)
         {
-            estudiante.Id = _tabla.Any() ? _tabla.Max(x => x.Id) + 1 : 1;
-            _tabla.Add(estudiante);
-            return Task.FromResult(true);
+            var encontrado = _context.Estudiantes.FirstOrDefault(x => x.Carne == carne);
+            return encontrado;
         }
 
-        public Task<bool> ActualizarAsync(Estudiante estudiante)
+        public async Task<bool> AgregarAsync(Estudiante estudiante)
         {
-            var existente = _tabla.FirstOrDefault(x => x.Id == estudiante.Id);
-            if (existente == null) return Task.FromResult(false);
+            await _context.Estudiantes.AddAsync(estudiante);
+            var result = await _context.SaveChangesAsync();
+            return result > 0;
+        }
+
+        public async Task<bool> ActualizarAsync(Estudiante estudiante)
+        {
+            var existente = _context.Estudiantes.FirstOrDefault(x => x.Id == estudiante.Id);
 
             existente.Nombre = estudiante.Nombre;
             existente.Apellido = estudiante.Apellido;
@@ -44,16 +48,17 @@ namespace PracticaProgramada.DAL.Repositorios
             existente.Email = estudiante.Email;
             existente.Telefono = estudiante.Telefono;
 
-            return Task.FromResult(true);
+            var result = await _context.SaveChangesAsync();
+
+            return result > 0;
         }
 
-        public Task<bool> EliminarAsync(int id)
+        public async Task<bool> EliminarAsync(int id)
         {
-            var existente = _tabla.FirstOrDefault(x => x.Id == id);
-            if (existente == null) return Task.FromResult(false);
-
-            _tabla.Remove(existente);
-            return Task.FromResult(true);
+            var existente = _context.Estudiantes.FirstOrDefault(x => x.Id == id);
+            _context.Estudiantes.Remove(existente);
+            var result = await _context.SaveChangesAsync();
+            return result >= 0;
         }
     }
 }
